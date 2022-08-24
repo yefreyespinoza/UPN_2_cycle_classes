@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "greet_week1_csharp/1.0.0": {
+        "runtime": {
+          "greet_week1_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "greet_week1_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

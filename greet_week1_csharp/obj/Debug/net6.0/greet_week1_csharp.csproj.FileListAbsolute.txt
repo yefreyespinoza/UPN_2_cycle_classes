@@ -1,0 +1,15 @@
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\bin\Debug\net6.0\greet_week1_csharp.exe
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\bin\Debug\net6.0\greet_week1_csharp.deps.json
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\bin\Debug\net6.0\greet_week1_csharp.runtimeconfig.json
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\bin\Debug\net6.0\greet_week1_csharp.dll
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\bin\Debug\net6.0\greet_week1_csharp.pdb
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.csproj.AssemblyReference.cache
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.AssemblyInfoInputs.cache
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.AssemblyInfo.cs
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.csproj.CoreCompileInputs.cache
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.dll
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\refint\greet_week1_csharp.dll
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.pdb
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\greet_week1_csharp.genruntimeconfig.cache
+C:\Users\yeffr\source\repos\upn\2_cycle_programing\week1\greet_intro_csharp\greet_week1_csharp\obj\Debug\net6.0\ref\greet_week1_csharp.dll
