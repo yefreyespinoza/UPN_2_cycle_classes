@@ -6,6 +6,19 @@ namespace greet_week1_csharp
     {
         static void Main(string[] args)
         {
+            //mostar resultados 
+            //Console.WriteLine("Hello World");
+
+            //recepccinar valores.
+            //Console.ReadLine();
+
+            //tipo de dato !nombre de variable. !opcional - asignar valor
+            //tipo de texto: 
+            //char => Guarda un solo caracter.
+            //string => Cadena de caracteres.
+            //int => numeros enteros.
+            //float, double, decimal. => numeros decimales.
+
             //variables
             string name;
             //entrada
@@ -14,7 +27,7 @@ namespace greet_week1_csharp
 
             //proceso ---
 
-            //salida
+            //salida ----
             Console.WriteLine("Hello " + name);
             Console.ReadKey();
         }
